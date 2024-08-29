@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jd4vid
 - 👀 I’m interested in programming... 
-- 🌱 I’m currently learning JavaScript, TypeScript, React, CSS, HTML, everything. 
+- 🌱 I’m currently learning JavaScript, TypeScript, React, CSS, HTML, python, databricks. 
 - 💞️ I’m looking to collaborate on any programming activity.
 - 📫 How to reach me ... 
 
