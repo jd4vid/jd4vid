@@ -39,9 +39,10 @@ I'm a AI Engineer and Data Engineer, passionate about shaping the AI revolution 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-253858?style=flat&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
 
 
 ---
