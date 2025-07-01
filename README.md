@@ -10,7 +10,7 @@ I'm a Data Engineer and AI Engineer, passionate about shaping the AI revolution 
 🔹 **Machine Learning & AI**: Model training, evaluation, MLOps, generative AI, and LLM applications.<br>
 🔹 **Big Data & Cloud**: Spark, Databricks, AWS (Glue, S3, Redshift), Azure, GCP.<br>
 🔹 **DevOps & Automation**: Docker, Terraform, MLflow, GitHub Actions, CI/CD.<br>
-🔹 **Programming**: Python (advanced), SQL, Bash, basic Java and JavaScript.<br>
+🔹 **Programming**: Python (advanced), SQL, PySpark, scikit-learn, Keras, PyTorch. 
 
 ---
 <!--
