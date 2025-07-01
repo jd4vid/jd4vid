@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jesús Navarro
 
-I'm a Data Engineer and AI Engineer, passionate about shaping the AI revolution with purpose and enthusiasm. I’m especially driven by the potential of AI to create positive, meaningful impact for humanity. Let's do it together!
+I'm a AI Engineer and Data Engineer, passionate about shaping the AI revolution with purpose and enthusiasm. I’m especially driven by the potential of AI to create positive, meaningful impact for humanity. Let's do it together!
 
 ---
 
@@ -68,5 +68,5 @@ I'm a Data Engineer and AI Engineer, passionate about shaping the AI revolution 
 
 ## 📁 Repositories to Explore
 
-Check out my pinned repositories below for hands-on examples of how I build pipelines, deploy AI, and manage data workflows in production.
+Check out my pinned repositories below for hands-on examples of what I've been working on lately!
 
