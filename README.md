@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jesús Navarro
 
-I'm a AI Engineer and Data Engineer, passionate about shaping the AI revolution with purpose and enthusiasm. I’m especially driven by the potential of AI to create positive, meaningful impact for humanity. Let's do it together!
+I'm a Computer Engineer, passionate about shaping the AI revolution with purpose and enthusiasm. I’m especially driven by the potential of AI to create positive, meaningful impact for humanity. Let's do it together!
 
 ---
 
