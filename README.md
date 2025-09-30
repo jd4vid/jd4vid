@@ -6,8 +6,8 @@ I'm a Computer Engineer, passionate about shaping the AI revolution with purpose
 
 ## 💼 Areas of Expertise
 
-🔹 **Data Engineering**: ETL/ELT pipelines, data lakes, medallion architecture, real-time ingestion. <br>
 🔹 **Machine Learning & AI**: Model training, evaluation, MLOps, generative AI, and LLM applications.<br>
+🔹 **Data Engineering**: ETL/ELT pipelines, data lakes, medallion architecture, real-time ingestion. <br>
 🔹 **Big Data & Cloud**: Spark, Databricks, AWS (Glue, S3, Redshift), Azure, GCP.<br>
 🔹 **DevOps & Automation**: Docker, Terraform, MLflow, GitHub Actions, CI/CD.<br>
 🔹 **Programming**: Python (advanced), SQL, PySpark, scikit-learn, Keras, PyTorch. 
